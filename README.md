@@ -1,2 +1,6 @@
 # disciplinauniesp2025
-repositório da disciplina da uniesp
+
+## Objetivos
+*Comandos Windows
+*Comandos Linux
+*Aprendendo Github
